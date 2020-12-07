@@ -2,6 +2,7 @@
   {
     "name": "School Start",
     "url": "https://schoolstart.ca",
+    "icon": "https://favicons.githubusercontent.com/schoolstart.ca",
     "slug": "school-start",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 551,
-    "timeWeek": 321,
-    "timeMonth": 332,
-    "timeYear": 332
+    "time": 323,
+    "timeDay": 174,
+    "timeWeek": 314,
+    "timeMonth": 323,
+    "timeYear": 323,
+    "dailyMinutesDown": {}
   }
 ]
